@@ -1,7 +1,7 @@
 # Paidpodcasts
 The best way to get paid for your podcast
 
-I was thinking about what it would look like if I put Nostrovia onto Nostrocket.
+I was thinking about what it would look like if I put [Nostrovia](https://nostrovia.org) onto [Nostrocket](https://nostrocket.org).
 
 Here's some initial thoughts.
 
