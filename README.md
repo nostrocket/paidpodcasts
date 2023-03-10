@@ -9,7 +9,7 @@ Previous episodes are free, but to listen to the **latest** episode, you pay an 
 
 The "relay" then encrypts the file to the user's pubkey and sends it to the client (probably a fork of some existing podcast player that is patched to enable LN payments and decryption). In a normal podcast player that doesn't support LN payments and decryption, the latest episide is a preview.
 
-## How to mitigate against freelaoding
+## How to mitigate against freeloading
 The "relay" will insert an audio overlay at a random point in the audio stream. 
 
 This overlay is barely audible to the human hear but still passes through MP3 encoding and is your pubkey encoded to audo tones.
